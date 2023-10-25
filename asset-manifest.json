@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shef-Aleks/static/css/main.f3f88596.css",
-    "main.js": "/Shef-Aleks/static/js/main.620e3127.js",
+    "main.js": "/Shef-Aleks/static/js/main.e1cf9b28.js",
     "static/media/Video.png": "/Shef-Aleks/static/media/Video.889a634dd6f2c233edf8.png",
     "static/media/info22.png": "/Shef-Aleks/static/media/info22.c16b2fafaae15910bac6.png",
     "static/media/info3.png": "/Shef-Aleks/static/media/info3.bfdc897a725a75b9dd78.png",
@@ -23,10 +23,10 @@
     "index.html": "/Shef-Aleks/index.html",
     "static/media/Vector.svg": "/Shef-Aleks/static/media/Vector.ea94a23ee92db96c3d7c.svg",
     "main.f3f88596.css.map": "/Shef-Aleks/static/css/main.f3f88596.css.map",
-    "main.620e3127.js.map": "/Shef-Aleks/static/js/main.620e3127.js.map"
+    "main.e1cf9b28.js.map": "/Shef-Aleks/static/js/main.e1cf9b28.js.map"
   },
   "entrypoints": [
     "static/css/main.f3f88596.css",
-    "static/js/main.620e3127.js"
+    "static/js/main.e1cf9b28.js"
   ]
 }
