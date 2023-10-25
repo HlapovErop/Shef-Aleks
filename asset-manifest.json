@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Shef-Aleks/static/css/main.f3f88596.css",
+    "main.js": "/Shef-Aleks/static/js/main.5fc37a9f.js",
+    "static/media/Video.png": "/Shef-Aleks/static/media/Video.889a634dd6f2c233edf8.png",
+    "static/media/info22.png": "/Shef-Aleks/static/media/info22.c16b2fafaae15910bac6.png",
+    "static/media/info3.png": "/Shef-Aleks/static/media/info3.bfdc897a725a75b9dd78.png",
+    "static/media/info33.png": "/Shef-Aleks/static/media/info33.bfdc897a725a75b9dd78.png",
+    "static/media/info11.png": "/Shef-Aleks/static/media/info11.cc2d9f82987df97e6e54.png",
+    "static/media/galery1.png": "/Shef-Aleks/static/media/galery1.e78ef59efd96f8831d5b.png",
+    "static/media/info2.png": "/Shef-Aleks/static/media/info2.3789864e913b79aaa116.png",
+    "static/media/img3.jpg": "/Shef-Aleks/static/media/img3.c366077514c8d86d281f.jpg",
+    "static/media/galery4.png": "/Shef-Aleks/static/media/galery4.87e7d5bf5c5796107b00.png",
+    "static/media/info1.png": "/Shef-Aleks/static/media/info1.7ff8fe1ad202ae0b567a.png",
+    "static/media/img2.png": "/Shef-Aleks/static/media/img2.c822d630f3ed44f6028f.png",
+    "static/media/us.jpg": "/Shef-Aleks/static/media/us.92dc2160cea24c59a2a0.jpg",
+    "static/media/Video.jpg": "/Shef-Aleks/static/media/Video.5a23a85e9cc94f0bcc77.jpg",
+    "static/media/img1.jpg": "/Shef-Aleks/static/media/img1.560f741443772b9f1a3a.jpg",
+    "static/media/galery2.png": "/Shef-Aleks/static/media/galery2.ed76bfbcda95f81afffa.png",
+    "static/media/galery3.png": "/Shef-Aleks/static/media/galery3.0b27cea19a719b9aa314.png",
+    "index.html": "/Shef-Aleks/index.html",
+    "static/media/Vector.svg": "/Shef-Aleks/static/media/Vector.ea94a23ee92db96c3d7c.svg",
+    "main.f3f88596.css.map": "/Shef-Aleks/static/css/main.f3f88596.css.map",
+    "main.5fc37a9f.js.map": "/Shef-Aleks/static/js/main.5fc37a9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f88596.css",
+    "static/js/main.5fc37a9f.js"
+  ]
+}
