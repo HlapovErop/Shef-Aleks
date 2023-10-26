@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Shef-Aleks/static/css/main.668e6697.css",
-    "main.js": "/Shef-Aleks/static/js/main.b7a84d4e.js",
+    "main.css": "/Shef-Aleks/static/css/main.13728a9d.css",
+    "main.js": "/Shef-Aleks/static/js/main.e9b71cde.js",
+    "static/media/img3.png": "/Shef-Aleks/static/media/img3.0bfa63f3d775813db8db.png",
     "static/media/Video.png": "/Shef-Aleks/static/media/Video.889a634dd6f2c233edf8.png",
     "static/media/info22.png": "/Shef-Aleks/static/media/info22.c16b2fafaae15910bac6.png",
     "static/media/info3.png": "/Shef-Aleks/static/media/info3.bfdc897a725a75b9dd78.png",
@@ -9,7 +10,6 @@
     "static/media/info11.png": "/Shef-Aleks/static/media/info11.cc2d9f82987df97e6e54.png",
     "static/media/galery1.png": "/Shef-Aleks/static/media/galery1.e78ef59efd96f8831d5b.png",
     "static/media/info2.png": "/Shef-Aleks/static/media/info2.3789864e913b79aaa116.png",
-    "static/media/img3.jpg": "/Shef-Aleks/static/media/img3.c366077514c8d86d281f.jpg",
     "static/media/galery4.png": "/Shef-Aleks/static/media/galery4.87e7d5bf5c5796107b00.png",
     "static/media/info1.png": "/Shef-Aleks/static/media/info1.7ff8fe1ad202ae0b567a.png",
     "static/media/img2.png": "/Shef-Aleks/static/media/img2.c822d630f3ed44f6028f.png",
@@ -20,14 +20,21 @@
     "static/media/galery3.png": "/Shef-Aleks/static/media/galery3.0b27cea19a719b9aa314.png",
     "static/media/contactI.png": "/Shef-Aleks/static/media/contactI.d543b060b8020356826c.png",
     "static/media/contactIMG.png": "/Shef-Aleks/static/media/contactIMG.ccc8b36cd5e1d2da2585.png",
+    "static/media/Logo.svg": "/Shef-Aleks/static/media/Logo.bd10919fbdfc0249a29582abf2f796ec.svg",
+    "static/media/Ellipse1.svg": "/Shef-Aleks/static/media/Ellipse1.d38ac05e2c0283cec8b0b937344860c5.svg",
+    "static/media/Ellipse.svg": "/Shef-Aleks/static/media/Ellipse.dcc896ee91ced765653917c1d4f07ae4.svg",
+    "static/media/WhatsApp1.svg": "/Shef-Aleks/static/media/WhatsApp1.f8d40f92b4fe86f60e19d30547dda437.svg",
     "index.html": "/Shef-Aleks/index.html",
+    "static/media/Phone1.svg": "/Shef-Aleks/static/media/Phone1.a7bfcb4ec6b2229982de13c46c35b8ad.svg",
+    "static/media/Inst1.svg": "/Shef-Aleks/static/media/Inst1.787b14b827119bcebb2230979b1ddc04.svg",
+    "static/media/Telegram1.svg": "/Shef-Aleks/static/media/Telegram1.fb8ef675f7180fb3e22fc79ce638e83c.svg",
     "static/media/Vector2.svg": "/Shef-Aleks/static/media/Vector2.4be4c1f153257a6eb81f.svg",
     "static/media/Vector.svg": "/Shef-Aleks/static/media/Vector.ea94a23ee92db96c3d7c.svg",
-    "main.668e6697.css.map": "/Shef-Aleks/static/css/main.668e6697.css.map",
-    "main.b7a84d4e.js.map": "/Shef-Aleks/static/js/main.b7a84d4e.js.map"
+    "main.13728a9d.css.map": "/Shef-Aleks/static/css/main.13728a9d.css.map",
+    "main.e9b71cde.js.map": "/Shef-Aleks/static/js/main.e9b71cde.js.map"
   },
   "entrypoints": [
-    "static/css/main.668e6697.css",
-    "static/js/main.b7a84d4e.js"
+    "static/css/main.13728a9d.css",
+    "static/js/main.e9b71cde.js"
   ]
 }
