@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shef-Aleks/static/css/main.97d65a51.css",
-    "main.js": "/Shef-Aleks/static/js/main.39defe0b.js",
+    "main.css": "/Shef-Aleks/static/css/main.71291ded.css",
+    "main.js": "/Shef-Aleks/static/js/main.f9f10a2c.js",
     "static/media/img3.png": "/Shef-Aleks/static/media/img3.0bfa63f3d775813db8db.png",
     "static/media/info22.png": "/Shef-Aleks/static/media/info22.c16b2fafaae15910bac6.png",
     "static/media/info3.png": "/Shef-Aleks/static/media/info3.bfdc897a725a75b9dd78.png",
@@ -32,11 +32,11 @@
     "static/media/Telegram11.svg": "/Shef-Aleks/static/media/Telegram11.e73375d67118fb3abe2822f76a737242.svg",
     "static/media/Vector2.svg": "/Shef-Aleks/static/media/Vector2.4be4c1f153257a6eb81f.svg",
     "static/media/Vector.svg": "/Shef-Aleks/static/media/Vector.ea94a23ee92db96c3d7c.svg",
-    "main.97d65a51.css.map": "/Shef-Aleks/static/css/main.97d65a51.css.map",
-    "main.39defe0b.js.map": "/Shef-Aleks/static/js/main.39defe0b.js.map"
+    "main.71291ded.css.map": "/Shef-Aleks/static/css/main.71291ded.css.map",
+    "main.f9f10a2c.js.map": "/Shef-Aleks/static/js/main.f9f10a2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d65a51.css",
-    "static/js/main.39defe0b.js"
+    "static/css/main.71291ded.css",
+    "static/js/main.f9f10a2c.js"
   ]
 }
