@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shef-Aleks/static/css/main.cb1470d7.css",
+    "main.css": "/Shef-Aleks/static/css/main.21db63c3.css",
     "main.js": "/Shef-Aleks/static/js/main.5cdd7537.js",
     "static/media/img3.png": "/Shef-Aleks/static/media/img3.0bfa63f3d775813db8db.png",
     "static/media/info22.png": "/Shef-Aleks/static/media/info22.c16b2fafaae15910bac6.png",
@@ -25,8 +25,8 @@
     "static/media/btnF.svg": "/Shef-Aleks/static/media/btnF.54df9dfd0e9477b25d134e1653197cc1.svg",
     "static/media/Ellipse1.svg": "/Shef-Aleks/static/media/Ellipse1.d38ac05e2c0283cec8b0b937344860c5.svg",
     "static/media/Ellipse.svg": "/Shef-Aleks/static/media/Ellipse.dcc896ee91ced765653917c1d4f07ae4.svg",
-    "static/media/WhatsApp.svg": "/Shef-Aleks/static/media/WhatsApp.a5a9f3c9d2854105342f84b1f9d466a9.svg",
     "index.html": "/Shef-Aleks/index.html",
+    "static/media/WhatsApp.svg": "/Shef-Aleks/static/media/WhatsApp.a5a9f3c9d2854105342f84b1f9d466a9.svg",
     "static/media/Phone.svg": "/Shef-Aleks/static/media/Phone.c711f76a15658bc7d496d1cbe670a7af.svg",
     "static/media/Phone11.svg": "/Shef-Aleks/static/media/Phone11.76e4a32a3e241aaca946b7a287219bb5.svg",
     "static/media/Inst.svg": "/Shef-Aleks/static/media/Inst.9f34137a86e97d8fd61b62b08750d83c.svg",
@@ -35,11 +35,11 @@
     "static/media/Telegram11.svg": "/Shef-Aleks/static/media/Telegram11.e73375d67118fb3abe2822f76a737242.svg",
     "static/media/Vector2.svg": "/Shef-Aleks/static/media/Vector2.4be4c1f153257a6eb81f.svg",
     "static/media/Vector.svg": "/Shef-Aleks/static/media/Vector.ea94a23ee92db96c3d7c.svg",
-    "main.cb1470d7.css.map": "/Shef-Aleks/static/css/main.cb1470d7.css.map",
+    "main.21db63c3.css.map": "/Shef-Aleks/static/css/main.21db63c3.css.map",
     "main.5cdd7537.js.map": "/Shef-Aleks/static/js/main.5cdd7537.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb1470d7.css",
+    "static/css/main.21db63c3.css",
     "static/js/main.5cdd7537.js"
   ]
 }
